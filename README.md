@@ -1,11 +1,9 @@
-## óla eu sou Raxide
+## óla eu sou Raxide , criado de sites e conteúdos .
 
 
 - 🔭 hoje trabalho com front-end
-- 🌱 estudando java
-- 😄 Pronouns :ele
-
-## Oiii eu sou a Raxide6, criadora de conteúdo de programação e tecnologia!
+- 🌱 estudando java , html , css e JavaScript.
+- 😄 Pronouns Ele .
 <div align="center">
   <a href="https://github.com/Raxide6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raxide6&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
